@@ -16,7 +16,7 @@ LJ美化改脸（Bes+Eu）：修改了特写，人模五官借用BES美化。
 
 ### 示例
 
-![eusample](https://github.com/Eudemonism00/DOL-Eu-ArtMods/assets/152267917/08380c04-cc19-4c87-bedf-51e6c19bc328)
+![eusample](https://github.com/Eudemonism00/DOL-Eu-ArtMods/assets/152267917/28e10589-7592-4e6f-adcb-d3328891c3d5)
 
 左：LJ美化改脸（Bes+Eu）；右：LJ美化改脸（Eu）。
 
