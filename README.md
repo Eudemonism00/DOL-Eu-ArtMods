@@ -2,6 +2,9 @@
 
 原版服装美化
 
+![preview](https://github.com/user-attachments/assets/ce0edce3-77d1-4568-8812-515ff7457d0b)
+
+
 # LJ美化-Eu式改脸
 
 [原帖地址](https://tieba.baidu.com/p/8774486070)
